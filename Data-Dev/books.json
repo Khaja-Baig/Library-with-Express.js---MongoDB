@@ -1,0 +1,80 @@
+[
+  {
+    "name": "The Alchemist",
+    "description": "A novel that tells the story of a shepherd boy named Santiago who travels from Spain to Egypt in search of a treasure.",
+    "author": "Paulo Coelho",
+    "publishedYear": 1988,
+    "publishedDate": "1988-04-25T00:00:00.000Z",
+    "publisher": ["HarperOne"],
+    "genre": ["Fiction", "Fantasy"],
+    "rating": 4.2,
+    "price": 12.99,
+    "available": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51K1zDCuY6L._SX331_BO1,204,203,200_.jpg"
+},
+  {
+    "name": "To Kill a Mockingbird",
+    "description": "The story of a young girl, her father, and an unjust trial that rocks their town.",
+    "author": "Harper Lee",
+    "publishedYear": 1960,
+    "publishedDate": "1960-07-11T00:00:00.000Z",
+    "publisher": ["J. B. Lippincott & Co."],
+    "genre": ["Fiction", "Southern Gothic"],
+    "rating": 4.5,
+    "price": 12.99,
+    "available": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51U6f%2BcMeNL._SX326_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "The Great Gatsby",
+    "description": "A story about the rise and fall of Jay Gatsby, set against the backdrop of the Roaring Twenties.",
+    "author": "F. Scott Fitzgerald",
+    "publishedYear": 1925,
+    "publishedDate": "1925-04-10T00:00:00.000Z",
+    "publisher": ["Charles Scribner's Sons"],
+    "genre": ["Fiction", "Modernist literature"],
+    "rating": 4.4,
+    "price": 10.99,
+    "available": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BTqq9XZrL.jpg"
+  },
+  {
+    "name": "1984",
+    "description": "A dystopian novel set in a totalitarian society where the government controls every aspect of citizens' lives.",
+    "author": "George Orwell",
+    "publishedYear": 1949,
+    "publishedDate": "1949-06-08T00:00:00.000Z",
+    "publisher": ["Secker and Warburg"],
+    "genre": ["Dystopian", "Political fiction"],
+    "rating": 4.2,
+    "price": 9.99,
+    "available": 20,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91SZSW8qSsL.jpg"
+  },
+  {
+    "name": "The Hobbit",
+    "description": "A children's fantasy novel about a hobbit on a quest",
+    "author": "J. R. R. Tolkien",
+    "publishedYear": 1937,
+    "publisher": ["George Allen & Unwin"],
+    "publishedDate": "1937-09-21T00:00:00.000Z",
+    "genre": ["Fiction", "Fantasy"],
+    "rating": 4.7,
+    "price": 8.99,
+    "available": 12,
+    "image": "https://images.example.com/the-hobbit.jpg"
+},
+  {
+    "name": "Pride and Prejudice",
+    "description": "A romantic novel about the complicated relationships between members of the Bennet family.",
+    "author": "Jane Austen",
+    "publishedYear": 1813,
+    "publishedDate": "1813-01-28T00:00:00.000Z",
+    "publisher": ["T. Egerton, Whitehall"],
+    "genre": ["Romance", "Comedy of manners"],
+    "rating": 4.7,
+    "price": 8.99,
+    "available": 15,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91W0X%2BPf9RL.jpg"
+  }
+]
